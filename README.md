@@ -1,4 +1,4 @@
-# Anime Downloader NX by AniDL
+# Anime Downloader NX by AniDL & izu-co
 
 This downloader can download anime from diffrent sites. Currently supported are *Funimation* and *Crunchyroll*.
 
