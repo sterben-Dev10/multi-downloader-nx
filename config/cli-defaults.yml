@@ -1,0 +1,49 @@
+# Downloading
+x: 1 # Server Both
+kstream: 1 # kSteam Both
+partsize: 60 # Both
+search-type: series
+q: 0 # Both Quality
+
+# Muxing
+dubLang: eng # Both
+hsLang: none # Both
+dlsubs: en # Both
+mp4mux: false # Both
+forceMuxer: mkvmerge #Both
+
+
+# Filenaming
+fileName: "[${service}] ${showTitle} - ${episode} [${height}p]" # Both
+epNumLength: 2 # Both
+
+
+# Proxy - Crunch (Deprecated?)
+proxy: '' 
+proxy_auth: ''
+proxy_ups: false
+use_curl: false
+proxy_ssp: false
+
+# Utilities
+noCleanUp: false # Both
+
+
+# Other
+skipUpdate: true
+
+# Deprecated
+videoQuality: max # Crunch (?)
+videoLayer: 0 # Both (Deprecated?)
+tsparts: 30 # Crunch (Deprecated?)
+oldStreams: false # Crunch (Deprecated?)
+oldSubs: false # Crunch (Deprecated?)
+subLang: enUS # Funi (Deprecated?)
+dub: enUS # Funi (Deprecated?)
+defSubLang: none # Crunch (Deprecated?)
+useBCPtags: false # Crunch (Deprecated?)
+muxSubs: true # Both (Deprecated?)
+releaseGroup: XxUnknw0nxX # Both (Deprecated?)
+fileSuffix: SIZEp # Crunch (Deprecated?)
+useFolder: false # Both (Deprecated?)
+noTrashFolder: false # Both (Deprecated?)
