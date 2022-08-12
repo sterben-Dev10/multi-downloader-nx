@@ -27,7 +27,7 @@ After installing NodeJS with NPM go to directory with `package.json` file and ty
 * [check dependencies](https://david-dm.org/anidl/funimation-downloader-nx)
 
 ## CLI Options
-See [the documentation](https://github.com/anidl/multi-downloader-nx/blob/master/docs/DOCUMENTATION.md)
+See [the documentation](https://github.com/sterben-Dev10/multi-downloader-nx/blob/master/docs/DOCUMENTATION.md)
 
 ## Build instructions
 
