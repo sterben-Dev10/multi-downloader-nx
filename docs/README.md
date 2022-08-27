@@ -27,12 +27,12 @@ After installing NodeJS with NPM go to directory with `package.json` file and ty
 * [check dependencies](https://david-dm.org/anidl/funimation-downloader-nx)
 
 ## CLI Options
-See [the documentation](https://github.com/anidl/multi-downloader-nx/blob/master/docs/DOCUMENTATION.md)
+See [the documentation](https://github.com/sterben-Dev10/multi-downloader-nx/blob/master/docs/DOCUMENTATION.md)
 
 ## Build instructions
 
 Please note that nodejs and npm must be installed in your system.
-First clone this repo `git clone https://github.com/anidl/multi-downloader-nx.git`.
+First clone this repo `git clone https://github.com/sterben-Dev10/multi-downloader-nx.git`.
 `cd` into the cloned directory and run `npm i`.
 Afterwards run `npm run tsc false [true if you want gui, false otherwise]`.
 If you want the `js` files you are done. Just `cd` into the `lib` folder.
