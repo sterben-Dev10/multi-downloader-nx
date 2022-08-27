@@ -58,7 +58,7 @@
     "eslint": "^8.9.0",
     "eslint-config-react-app": "^7.0.0",
     "eslint-plugin-import": "^2.25.4",
-    "eslint-plugin-react": "^7.28.0",
+    "eslint-plugin-react": "^7.31.1",
     "fork-ts-checker-webpack-plugin": "^6.5.0",
     "node-loader": "^2.0.0",
     "pkg": "^5.4.1",
