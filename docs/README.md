@@ -1,4 +1,5 @@
-# Anime Downloader NX by AniDL
+# Anime Downloader NX by AniDL & izu-co
+[![Discord Shield](https://discord.com/api/guilds/884479461997805568/widget.png?style=banner2)](https://discord.gg/qEpbWen5vq)
 
 This downloader can download anime from diffrent sites. Currently supported are *Funimation* and *Crunchyroll*.
 
